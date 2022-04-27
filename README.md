@@ -1,6 +1,6 @@
 ติดตั้ง Flask ----
 
-python -m pip install Flask
+-m pip install Flask
 
 รันไฟล์
 kadsaan.py
