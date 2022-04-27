@@ -1,4 +1,5 @@
-ติดตั้ง Flask
+ติดตั้ง Flask ----
+
 python -m pip install Flask
 
 รันไฟล์
